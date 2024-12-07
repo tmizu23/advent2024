@@ -1,0 +1,387 @@
+{
+  "おばけ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 0
+  },
+  "おんぷ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 0
+  },
+  "こいのぼり": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 0
+  },
+  "さかな": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 0
+  },
+  "ぬいぐるみ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 0
+  },
+  "ゆき": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1280,
+    "y": 0
+  },
+  "アリ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1536,
+    "y": 0
+  },
+  "ウサギ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1792,
+    "y": 0
+  },
+  "カモ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 256
+  },
+  "キャッスル": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 512
+  },
+  "クローバー": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 768
+  },
+  "ケーキ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 1024
+  },
+  "サル": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 1280
+  },
+  "サンタ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 1536
+  },
+  "スター": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 0,
+    "y": 1792
+  },
+  "チューリップ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 256
+  },
+  "テントウムシ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 256
+  },
+  "トナカイ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 256
+  },
+  "ネコ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 256
+  },
+  "パトカー": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1280,
+    "y": 256
+  },
+  "ハチ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1536,
+    "y": 256
+  },
+  "ハト": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1792,
+    "y": 256
+  },
+  "プレゼント": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 512
+  },
+  "フェリー": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 768
+  },
+  "ベル": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 1024
+  },
+  "ヘビ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 1280
+  },
+  "ヤシ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 1536
+  },
+  "リス": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 256,
+    "y": 1792
+  },
+  "ワシ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 512
+  },
+  "七夕": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 512
+  },
+  "図書館": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 512
+  },
+  "小学生": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1280,
+    "y": 512
+  },
+  "工場": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1536,
+    "y": 512
+  },
+  "広葉樹": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1792,
+    "y": 512
+  },
+  "建物": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 768
+  },
+  "採掘": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 1024
+  },
+  "枯木": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 1280
+  },
+  "波": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 1536
+  },
+  "消防士": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 512,
+    "y": 1792
+  },
+  "消防車": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 768
+  },
+  "温泉": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 768
+  },
+  "火山": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1280,
+    "y": 768
+  },
+  "病院": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1536,
+    "y": 768
+  },
+  "看板": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1792,
+    "y": 768
+  },
+  "石碑": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 1024
+  },
+  "神社": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 1280
+  },
+  "葉っぱ": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 1536
+  },
+  "警察官": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 768,
+    "y": 1792
+  },
+  "郵便局": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 1024
+  },
+  "針葉樹": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1280,
+    "y": 1024
+  },
+  "釣船": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1536,
+    "y": 1024
+  },
+  "雪だるま": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1792,
+    "y": 1024
+  },
+  "風船": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 1280
+  },
+  "飛行機": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 1536
+  },
+  "高校生": {
+    "height": 256,
+    "pixelRatio": 2,
+    "width": 256,
+    "x": 1024,
+    "y": 1792
+  }
+}
