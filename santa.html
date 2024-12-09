@@ -188,7 +188,7 @@
         const style = {
             "version": 8,
             "sprite": [{ id: "default", url: "https://gsi-cyberjapan.github.io/optimal_bvmap/sprite/std" },
-            { id: "custom", url: "https://ecoris.co.jp/map/sprite/my_symbol" }],
+            { id: "custom", url: "https://tmizu23.github.io/advent2024/sprite/my_symbol" }],
             "glyphs": "https://gsi-cyberjapan.github.io/optimal_bvmap/glyphs/{fontstack}/{range}.pbf",
             "sources": {
                 "gsi_photo": {
@@ -7359,7 +7359,7 @@
                             5801,
                             "滝",
                             6341,
-                            "史跡・名勝・天然記念物",
+                            "custom:クローバー",
                             7601,
                             "砂礫地（領域が不明瞭な場合）-20",
                             7621,
@@ -12727,13 +12727,14 @@
             });
 
             const frames = ["custom:スター", ""];
+            const interval = 1000;
             let frameIndex = 0;
 
             setInterval(() => {
                 const currentFrame = frames[frameIndex];
                 frameIndex = (frameIndex + 1) % frames.length;
                 map.setLayoutProperty("スターレイヤ", "icon-image", currentFrame);
-            }, 1000);
+            }, interval);
         });
 
         // ポイントクリック時のポップアップ表示
